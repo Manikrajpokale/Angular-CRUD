@@ -1,0 +1,14 @@
+app-bar-chart {
+    margin: 0;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+ngx-charts-bar-vertical {
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+ngx-charts-bar-vertical .chart {
+    background-color: #f4f7fc;
+}
